@@ -1,0 +1,12 @@
+# direnv
+.envrc
+
+# mac
+.DS_Store
+
+# binary
+secure-cli
+secure-cli.exe
+
+scripts/*
+!scripts/gen.sh
